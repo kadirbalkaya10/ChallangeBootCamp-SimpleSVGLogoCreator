@@ -27,14 +27,14 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 How to use : 
 
-[![CreateSvgSimpe](./Images/Usage.gif)
+![CreateSvgSimpe](./Images/Usage.gif)
 
 
 Results :
 
-[![CreateSvgSimpe](./Images/ss1.png)
-[![CreateSvgSimpe](./Images/ss2.png)
-[![CreateSvgSimpe](./Images/ss3.png)
+![CreateSvgSimpe](./Images/ss1.png)
+![CreateSvgSimpe](./Images/ss2.png)
+![CreateSvgSimpe](./Images/ss3.png)
 
 
 
